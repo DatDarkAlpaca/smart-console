@@ -7,6 +7,13 @@
 *.o
 *.obj
 
+# Visual studio:
+.vs
+
+# Binaries:
+bin/
+intermediate/
+
 # Precompiled Headers
 *.gch
 *.pch
